@@ -1,5 +1,5 @@
 {
-  "name": "NetMechanics/CI_Users",
+  "name": "netmechanics/ci_users",
   "description": "users authentication system for Codeigniter 4",
   "minimum-stability": "stable",
   "license": "MIT",
