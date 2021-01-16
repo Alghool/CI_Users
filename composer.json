@@ -9,6 +9,11 @@
       "email": "Mahmoud@Alghool.net"
     }
   ],
+  "autoload": {
+    "psr-4": {
+      "Users\\": "/"
+    }
+  },
   "require": {
     "php" : ">=7.2"
   }
